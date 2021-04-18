@@ -1,0 +1,14 @@
+@mixin font-styling{
+    h1 {
+    color: #555;
+    }
+    h2 {
+        color: #555;
+    }
+    h3 {
+        color: rgb(72, 54, 114);
+    }
+    p {
+        font-style: italic;
+    }
+}
